@@ -7,3 +7,5 @@ Pomocne LINKI (refaktoryzacja):
 - Czysty Kod - R.C.Martin - Rozdział 2. - Znaczące nazwy (linka brak - kup Pan książkę)
 - https://sowaprogramuje.pl/nazewnictwo-w-programowaniu-20-cennych-wskazowek/
 - https://programmingduck.com/articles/naming
+
+  Film o tworzeiu quizu w C++: https://miroslawzelent.pl/kurs-c++/pliki-tekstowe-zapis-odczyt-fstream/
