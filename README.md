@@ -8,4 +8,4 @@ Pomocne LINKI (refaktoryzacja):
 - https://sowaprogramuje.pl/nazewnictwo-w-programowaniu-20-cennych-wskazowek/
 - https://programmingduck.com/articles/naming
 
-  Film o tworzeiu quizu w C++: https://miroslawzelent.pl/kurs-c++/pliki-tekstowe-zapis-odczyt-fstream/
+  Film o tworzeniu quizu w C++: https://miroslawzelent.pl/kurs-c++/pliki-tekstowe-zapis-odczyt-fstream/
